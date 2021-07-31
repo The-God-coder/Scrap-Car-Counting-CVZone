@@ -4,6 +4,8 @@
 
 # By: Aniket Kokate
 
+# [Vote For Me!!](https://www.computervision.zone/dsc/?contest=video-detail&video_id=97163)
+
 ``` first of all i did this on a linux machine meaning that you may have to make a new virtual enviorment to do so you have to install venv with pip to do so it is```
 
 ``` pip install venv```
