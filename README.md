@@ -20,4 +20,16 @@ pip install -r requirements-gpu.txt
 ```
 
 It is also a good idea to use output mode because on most computers live output is quite laggy
+``` to do so the command is 'python object_tracker.py --output ./output.mp4 --dont_show' --dont-show is optional if you want to see the live output or not! ```
 
+
+Also since some files were too large like the weights I have provided them below and you have to add them to the specified location
+
+```
+# yolov4.weights, place this file in the ./data folder
+https://drive.google.com/file/d/185QmmIXQrl-jyPXtQ8U1EIRQbIlGqR2T/view?usp=sharing
+
+# variables.data-00000-of-00001, place this file in ./checkpoints/yolov4-416/variables/
+https://drive.google.com/file/d/1c2MY1nYmK7Mu8EJ2fwhQnQTLEJkSSeMO/view?usp=sharing
+
+```
